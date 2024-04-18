@@ -1,0 +1,349 @@
+PLATAFORMA,TIPO,ESTADO,VENDEDOR,DIRECCIÓN,BARRIO/ZONA,Mts2 total,Mts2 Cubiertos,AMBIENTES,HABITACIONES,BAÑOS,PRECIO(u$d)
+argenprop,departamento,0.0,Estudio Yacoub,Saavedra E/ Azcoaga Y José Valdez,Barrio Norte,95.0,60.0,3.0,2.0,1.0,45000.0
+argenprop,casa,53.0,Remax Tendencia,Edison 1100,Barrio Centro 2,252.0,149.0,4.0,2.0,1.0,63000.0
+argenprop,casa,35.0,Remax Tendencia,Leoncio De La Barrera 1300,San José Obrero,272.0,81.0,6.0,2.0,1.0,36000.0
+argenprop,departamento,11.0,Remax Tendencia,Piacenza 55,Barrio Norte,48.0,48.0,2.0,1.0,1.0,30000.0
+argenprop,casa,36.0,Remax Tendencia,España 2000,Barrio Norte,204.0,128.0,4.0,3.0,1.0,
+argenprop,casa,35.0,Remax Tendencia,San Luis 84,Provincias Unidas,240.0,160.0,5.0,3.0,1.0,83000.0
+argenprop,casa,59.0,Remax Tendencia,Almafuerte 1800,Barrio Norte,357.0,68.0,3.0,1.0,1.0,
+argenprop,departamento,6.0,Remax Tendencia,Mitre 700,Barrio Centro 1,67.0,67.0,3.0,2.0,1.0,65000.0
+argenprop,casa,40.0,Remax Tendencia,Rivadavia 900,Barrio Centro 2,211.0,172.0,3.0,2.0,1.0,
+argenprop,departamento,8.0,Remax Tendencia,Almafuerte 1600,Barrio Norte,49.0,49.0,2.0,1.0,1.0,
+argenprop,departamento,43.0,Remax Tendencia,Mitre 600,Barrio Centro 1,71.0,71.0,3.0,2.0,1.0,
+argenprop,casa,23.0,Remax Tendencia,San Lorenzo 158,Barrio Centro 3,648.0,218.0,4.0,3.0,3.0,162000.0
+argenprop,casa,11.0,Remax Tendencia,Saenz Peña 800,Barrio Norte,369.0,178.0,8.0,3.0,2.0,
+argenprop,casa,15.0,Remax Tendencia,Avenida Presidente Juan Domingo Perón 1100,Tiro Federal,525.0,246.0,8.0,4.0,2.0,
+argenprop,casa,34.0,Remax Tendencia,Liniers 700,San Cayetano,625.0,405.0,9.0,3.0,2.0,280000.0
+argenprop,casa,70.0,Remax Tendencia,San Lorenzo 115,Barrio Centro 3,150.0,102.0,3.0,2.0,2.0,
+argenprop,departamento,24.0,Remax Tendencia,Chacabuco 1400,Barrio Centro 2,69.0,69.0,3.0,2.0,1.0,45000.0
+argenprop,casa,28.0,Remax Tendencia,Maipu 160,Barrio Centro 1,606.0,306.0,8.0,3.0,4.0,
+argenprop,casa,19.0,Remax Tendencia,López 1628,Barrio Centro 2,234.0,132.0,6.0,3.0,2.0,130000.0
+argenprop,casa,43.0,Remax Tendencia,Castelli 391,Barrio Centro 1,276.0,165.0,4.0,3.0,2.0,148000.0
+argenprop,casa,13.0,Remax Tendencia,Libertad 1200,Ciudad Nueva,522.0,226.0,4.0,2.0,2.0,
+argenprop,casa,,Spitteler,Sarmiento 300,Barrio Centro 3,350.0,,,,,80000.0
+argenprop,departamento,30.0,Remax Tendencia,Belgrano 1,Barrio Centro 1,74.0,74.0,4.0,3.0,1.0,75000.0
+argenprop,casa,28.0,Remax Tendencia,Saavedra 800,Barrio Centro 1,755.0,227.0,8.0,4.0,3.0,
+argenprop,casa quinta,,Remax Tendencia,Los Mistos 1150,Los Robles,1350.0,122.0,,2.0,1.0,
+argenprop,casa,22.0,Remax Tendencia,Huhn 183,Malvinas Argentinas,225.0,137.0,4.0,2.0,2.0,43000.0
+argenprop,casa,10.0,Remax Tendencia,H. Strenitz 1378,Ciudad Nueva,300.0,50.0,3.0,2.0,1.0,
+argenprop,casa,19.0,Remax Tendencia,Rivadavia 1474,Bernardino Rivadavia,268.0,210.0,4.0,3.0,2.0,110000.0
+argenprop,casa,15.0,Remax Tendencia,Pringles 75,General Belgrano,300.0,131.0,4.0,3.0,3.0,
+argenprop,galpón,31.0,Remax Tendencia,Ruta 8 2500,Los Pinos,180.0,180.0,,,,68000.0
+argenprop,galpón,49.0,Remax Tendencia,French 100,Bernardino Rivadavia,100.0,100.0,,,,83000.0
+argenprop,departamento,2.0,Remax Tendencia,Maipu 342,Barrio Centro 1,52.0,52.0,2.0,1.0,1.0,105000.0
+argenprop,departamento,2.0,Remax Tendencia,Maipu 342,Barrio Centro 1,100.0,100.0,3.0,2.0,2.0,
+argenprop,departamento,2.0,Remax Tendencia,Maipu 342,Barrio Centro 1,82.0,82.0,3.0,2.0,2.0,
+argenprop,casa,29.0,Remax Tendencia,Mitre 34,Barrio Centro 1,200.0,182.0,4.0,3.0,1.0,105000.0
+argenprop,departamento,0.0,Remax Tendencia,Güemes 832,M.M De Guemes,,45.0,1.0,,1.0,
+argenprop,casa,21.0,Remax Tendencia,Almafuerte 100,Barrio Centro 1,148.0,123.0,5.0,3.0,2.0,45000.0
+argenprop,casa,0.0,Remax Tendencia,Chacabuco 322,Barrio Centro 1,210.0,155.0,3.0,2.0,1.0,
+argenprop,departamento,10.0,Remax Tendencia,Formosa 400,M.M De Guemes,38.0,38.0,3.0,1.0,1.0,36000.0
+argenprop,casa,29.0,Remax Tendencia,Guemes 100,General Belgrano,234.0,132.0,4.0,4.0,2.0,
+argenprop,departamento,11.0,Remax Tendencia,Castelli 319,Barrio Centro 1,90.0,90.0,3.0,2.0,1.0,95000.0
+argenprop,departamento,8.0,Remax Tendencia,Belgrano 1,Barrio Centro 1,54.0,54.0,2.0,1.0,1.0,52000.0
+argenprop,casa quinta,,Remax Tendencia,Doctor Esteban Maradona 1500,,2620.0,,,3.0,1.0,
+argenprop,casa,38.0,Remax Tendencia,Libertad 675,Ciudad Nueva,225.0,104.0,3.0,2.0,1.0,45000.0
+argenprop,casa,37.0,Remax Tendencia,San Lorenzo 91,Barrio Centro 3,97.0,97.0,3.0,2.0,1.0,54000.0
+argenprop,casa,11.0,Remax Tendencia,Roberto Cavanagh 555,Ciudad Nueva,275.0,78.0,2.0,1.0,1.0,58000.0
+argenprop,casa,15.0,Remax Tendencia,España 1676,Barrio Norte,250.0,223.0,4.0,3.0,2.0,
+argenprop,casa,53.0,Remax Tendencia,Dante Alighieri 1100,Barrio Centro 3,170.0,152.0,4.0,2.0,1.0,100000.0
+argenprop,casa,40.0,Remax Tendencia,Colon 400,Barrio Centro 1,255.0,133.0,3.0,2.0,3.0,102000.0
+argenprop,casa,46.0,Remax Tendencia,España 2800,Malvinas Argentinas,200.0,50.0,3.0,2.0,1.0,19000.0
+argenprop,casa,31.0,Remax Tendencia,Garbarino 500,Bernardino Rivadavia,248.0,109.0,4.0,2.0,1.0,
+argenprop,casa,41.0,Remax Tendencia,Sarmiento 200,Barrio Centro 3,1085.0,416.0,8.0,4.0,6.0,
+argenprop,galpón,33.0,Remax Tendencia,Avenida Doctor Luis Chapuis 2500,Malvinas Argentinas,236.0,236.0,,,1.0,120000.0
+argenprop,casa quinta,,Remax Tendencia,Pueyrredon 2019,Bernardino Rivadavia,1187.0,,,4.0,1.0,
+argenprop,casa,9.0,Remax Tendencia,Pasaje Gatti 2600,Bernardino Rivadavia,67.0,55.0,2.0,1.0,1.0,31000.0
+argenprop,casa quinta,,Remax Tendencia,Alberto De Brouckere 500,Cumelén,5179.0,90.0,,1.0,1.0,42000.0
+argenprop,casa,39.0,Remax Tendencia,Belgrano 2047,Barrio Norte,783.0,724.0,,,,
+argenprop,casa,43.0,Remax Tendencia,Chaco 480,Ciudad Nueva,205.0,117.0,3.0,2.0,2.0,49000.0
+argenprop,departamento,62.0,Remax Tendencia,Belgrano 87,Barrio Centro 1,72.0,72.0,4.0,2.0,1.0,
+argenprop,casa,0.0,Remax Tendencia,Huhn 300,Malvinas Argentinas,125.0,60.0,3.0,2.0,1.0,45000.0
+argenprop,casa,23.0,Remax Tendencia,Rivadavia 1934,Bernardino Rivadavia,400.0,360.0,12.0,4.0,4.0,160000.0
+argenprop,casa,28.0,Remax Tendencia,Velez Sarfield 1700,San José Obrero,350.0,135.0,4.0,3.0,2.0,59000.0
+argenprop,casa,35.0,Remax Tendencia,Gutierrez 166,Alejandro Gutierrez,36.0,36.0,2.0,1.0,1.0,15000.0
+argenprop,casa,88.0,Remax Tendencia,Laprida 100,Barrio Centro 1 ,169.0,154.0,4.0,3.0,2.0,98000.0
+argenprop,casa,,Urbánica Real Estate,Dean Funes 1500,San José Obrero,1200.0,,3.0,2.0,1.0,120000.0
+argenprop,casa,14.0,Remax Tendencia,Cerrito 284,Barrio Centro 3,166.0,107.0,6.0,2.0,1.0,
+argenprop,casa,10.0,Remax Tendencia,Sinclair 1326,Villa Casey,310.0,96.0,4.0,2.0,1.0,37000.0
+argenprop,departamento,10.0,Ana Rhode ,Sarmiento 900,Barrio Centro 3,,,1.0,,,45000.0
+argenprop,casa,78.0,Remax Tendencia,San Martín 1300,Barrio Centro 1 ,340.0,160.0,4.0,2.0,2.0,110000.0
+argenprop,casa,45.0,Remax Tendencia,Agüero 1100,San José Obrero,219.0,129.0,4.0,3.0,1.0,39000.0
+argenprop,casa,24.0,Remax Tendencia,Chaco 3600,,2030.0,172.0,4.0,2.0,1.0,
+argenprop,casa,61.0,Remax Tendencia,Lavalle 600,Barrio Centro 2,13.0,13.0,1.0,,,
+argenprop,casa,0.0,Remax Tendencia,Favaloro 800,San Cayetano,275.0,77.0,3.0,2.0,1.0,
+argenprop,departamento,0.0,Remax Tendencia,9 De Julio 700,Barrio Centro 1,69.0,69.0,3.0,2.0,1.0,108500.0
+argenprop,casa,,Remax Tendencia,España 800,Barrio Centro 1,330.0,295.0,4.0,2.0,2.0,230000.0
+argenprop,casa,45.0,Remax Tendencia,2 De Abril 100,Alejandro Gutierrez,232.0,81.0,4.0,2.0,1.0,32000.0
+argenprop,casa,50.0,Remax Tendencia,San Lorenzo 200,Barrio Centro 3,180.0,120.0,4.0,3.0,1.0,84000.0
+argenprop,departamento,11.0,Remax Tendencia,Maipu 1000,Barrio Centro 2,160.0,160.0,5.0,4.0,4.0,230000.0
+argenprop,casa quinta,,Remax Tendencia,Las Gaviotas 1095,Los Robles,1350.0,,,2.0,1.0,107000.0
+argenprop,departamento,9.0,Remax Tendencia,Edison 2631,Barrio San Vicente,76.0,,3.0,2.0,2.0,47000.0
+argenprop,casa,36.0,Remax Tendencia,Juan Bautista Alberdi 958,Barrio Centro 3,1114.0,331.0,4.0,3.0,2.0,225000.0
+argenprop,casa quinta,15.0,Remax Tendencia,,,3000.0,342.0,10.0,5.0,4.0,
+argenprop,casa,32.0,Remax Tendencia,Croacia 440,San Cayetano,280.0,216.0,9.0,4.0,2.0,54000.0
+argenprop,departamento,0.0,Remax Tendencia,Alsina 864,Provincias Unidas,84.0,84.0,4.0,2.0,1.0,76500.0
+argenprop,departamento,0.0,Remax Tendencia,España 660,Barrio Centro 1,56.0,56.0,2.0,1.0,1.0,87589.0
+argenprop,departamento,7.0,Remax Tendencia,Agüero 900,Barrio Norte,68.0,68.0,3.0,2.0,1.0,80000.0
+argenprop,casa quinta,,Remax Tendencia,Los Ciruelos 1264,Villa Casey,570.0,,,2.0,2.0,77000.0
+argenprop,casa,8.0,Remax Tendencia,Juan Bautista Alberdi 1700,Bernardino Rivadavia,292.0,110.0,3.0,2.0,1.0,85000.0
+argenprop,casa,41.0,Remax Tendencia,Mariño 0,Barrio Centro 1,250.0,153.0,5.0,2.0,2.0,150000.0
+argenprop,casa,0.0,Remax Tendencia,Runciman 284,Barrio Centro 3,51.0,51.0,3.0,2.0,1.0,40000.0
+argenprop,galpón,15.0,Remax Tendencia,Pueyrredon 100,Barrio Centro 1,1000.0,809.0,4.0,3.0,3.0,230000.0
+argenprop,casa,48.0,Remax Tendencia,Roca 1600,Barrio Centro 2,183.0,150.0,3.0,2.0,2.0,70000.0
+argenprop,departamento,0.0,Remax Tendencia,25 De Mayo 85,Bernardino Rivadavia,48.0,48.0,2.0,1.0,1.0,64000.0
+argenprop,departamento,5.0,Remax Tendencia,Dean Funes 400,Barrio Norte,47.0,47.0,2.0,1.0,1.0,46000.0
+argenprop,casa,25.0,Remax Tendencia,Italia 2300,Barrio Norte,243.0,110.0,4.0,3.0,2.0,45000.0
+argenprop,casa,13.0,Remax Tendencia,Colon 2100,Barrio Centro 2,375.0,182.0,4.0,2.0,2.0,132000.0
+argenprop,casa,38.0,Remax Tendencia,Brown 800,Barrio De La Carne,262.0,276.0,4.0,3.0,3.0,
+argenprop,casa,29.0,Remax Tendencia,Basualdo 1500,San José Obrero,216.0,157.0,4.0,2.0,1.0,44000.0
+argenprop,casa,38.0,Remax Tendencia,Sarmiento 600,Barrio Centro 3,310.0,104.0,5.0,2.0,1.0,
+argenprop,casa,56.0,Remax Tendencia,Dante Alighieri 800,Barrio Centro 3,216.0,244.0,4.0,3.0,2.0,180000.0
+argenprop,casa,10.0,Remax Tendencia,Gaspar Di Martino 200,Pedro Iturbide,300.0,100.0,4.0,2.0,1.0,47000.0
+argenprop,casa,61.0,Remax Tendencia,Paz 100,Bernardino Rivadavia,380.0,61.0,2.0,1.0,1.0,43500.0
+argenprop,departamento,,Filippetti Kearney,Alvear 100,Barrio Centro 1,43.0,43.0,2.0,1.0,1.0,85000.0
+argenprop,departamento,0.0,Filippetti Kearney,Dante Alighieri 900,Barrio Centro 3,47.0,47.0,2.0,1.0,1.0,65000.0
+argenprop,departamento,0.0,Filippetti Kearney,Dante Alighieri 900,Barrio Centro 3,42.0,42.0,2.0,1.0,1.0,68000.0
+argenprop,departamento,0.0,Remax Tendencia,25 De Mayo 85,Barrio Centro 1,51.0,51.0,2.0,1.0,1.0,68000.0
+argenprop,casa,31.0,Remax Tendencia,Vélez Sársfield 1400,,400.0,178.0,6.0,3.0,2.0,95000.0
+argenprop,casa quinta,,Remax Tendencia,Primera Junta 1855 ,Ciudad Nueva,1680.0,,,2.0,1.0,115000.0
+argenprop,casa quinta,,Remax Tendencia,Cabo Oscar Alfonzo(Ex 25) 1500,,2516.0,,,3.0,1.0,85000.0
+argenprop,casa,45.0,Remax Tendencia,Eva Peron 300,General San Martín,124.0,100.0,3.0,2.0,1.0,43000.0
+argenprop,galpón,10.0,Remax Tendencia,Santiago Giubergia 2600,Pedro Iturbide,670.0,,,,2.0,
+argenprop,casa,43.0,Remax Tendencia,Urquiza 60,General Belgrano,406.0,151.0,7.0,2.0,1.0,85000.0
+argenprop,departamento,0.0,Remax Tendencia,España 660,Barrio Centro 1,78.0,78.0,3.0,2.0,1.0,113219.0
+argenprop,galpón,39.0,Remax Tendencia,Marcos Ciani 3200,Barrio San Vicente,328.0,,,,1.0,110000.0
+argenprop,casa quinta,,Remax Tendencia,Carelli 1400,Tiro Federal,800.0,,,3.0,2.0,125000.0
+argenprop,casa,6.0,Remax Tendencia,Moreno 3600,Barrio San Vicente,479.0,142.0,3.0,2.0,2.0,70000.0
+argenprop,casa,60.0,Remax Tendencia,Garibaldi 500,Barrio Centro 3,184.0,137.0,3.0,2.0,1.0,47000.0
+argenprop,departamento,3.0,Remax Tendencia,Alvear 1200,Bernardino Rivadavia,44.0,44.0,2.0,1.0,1.0,55000.0
+argenprop,casa,103.0,Remax Tendencia,Mitre 900,Barrio Centro 1,716.0,513.0,8.0,4.0,4.0,830000.0
+argenprop,departamento,3.0,Remax Tendencia,Moreno 654,Barrio Centro 2,76.0,76.0,3.0,2.0,1.0,
+argenprop,departamento,0.0,Remax Tendencia,25 De Mayo 85,Barrio Centro 1,48.0,48.0,2.0,1.0,1.0,67000.0
+argenprop,casa,47.0,Remax Tendencia,Belgrano 2000,Barrio Norte,263.0,175.0,5.0,3.0,2.0,85000.0
+argenprop,galpón,30.0,Remax Tendencia,Chacabuco 1800,Barrio Centro 2,,,,,1.0,95000.0
+argenprop,departamento,53.0,Remax Tendencia,Mitre 700,Barrio Centro 1,99.0,99.0,3.0,2.0,1.0,
+argenprop,casa,51.0,Remax Tendencia,San Lorenzo 534,General San Martín,252.0,111.0,3.0,2.0,1.0,55000.0
+argenprop,casa quinta,,Remax Tendencia,Los Teros 1400,Los Robles,1350.0,,,3.0,2.0,122000.0
+argenprop,casa quinta,,Remax Tendencia,República De Irlanda 4100,Los Pinos,2320.0,,,3.0,2.0,155000.0
+argenprop,casa,21.0,Remax Tendencia,25 De Mayo 1900,Bernardino Rivadavia,585.0,202.0,4.0,3.0,2.0,
+argenprop,departamento,0.0,Remax Tendencia,Ayacucho 200,Barrio Centro 3,53.0,53.0,2.0,1.0,1.0,74000.0
+argenprop,casa,63.0,Remax Tendencia,Alvear 1000,Barrio Centro 2,200.0,127.0,7.0,2.0,1.0,90000.0
+argenprop,departamento,3.0,Remax Tendencia,Alvear 0,Barrio Centro 1,40.0,40.0,2.0,1.0,1.0,77000.0
+argenprop,casa,83.0,Remax Tendencia,Iturraspe 600,Barrio Centro 1,940.0,490.0,10.0,6.0,3.0,690000.0
+argenprop,casa quinta,,Remax Tendencia,Chaco 3751,Malvinas Argentinas,1078.0,,,3.0,3.0,230000.0
+argenprop,departamento,61.0,Remax Tendencia,9 De Julio 500,Bernardino Rivadavia,89.0,89.0,5.0,3.0,2.0,83000.0
+argenprop,casa,47.0,Remax Tendencia,Catamarca 501,San Cayetano,237.0,212.0,4.0,2.0,1.0,55000.0
+argenprop,casa,34.0,Remax Tendencia,Liniers 700,San Cayetano,250.0,127.0,4.0,2.0,1.0,68000.0
+argenprop,departamento,0.0,Remax Tendencia,3 De Febrero 200,Pedro Iturbide,61.0,61.0,2.0,1.0,1.0,79000.0
+argenprop,casa,39.0,Remax Tendencia,Cerrito 400,Tiro Federal,196.0,75.0,3.0,2.0,1.0,38000.0
+argenprop,galpón,,Gr Propiedades,Moreno 370,Barrio Centro 2,356.0,,,,,165000.0
+argenprop,casa,50.0,Filippetti Kearney,Cabral 100,Barrio Centro 3,308.0,200.0,3.0,2.0,2.0,150000.0
+argenprop,departamento,15.0,Ana Rhode ,España 200,Malvinas Argentinas,34.0,34.0,1.0,,1.0,45000.0
+argenprop,casa,50.0,Ana Rhode ,San Martín 1700,Barrio Norte,187.0,122.0,,2.0,1.0,68000.0
+argenprop,casa,85.0,Ana Rhode ,Juan Bautista Alberdi 100,Barrio Centro 3,387.0,130.0,,2.0,2.0,
+argenprop,departamento,,Ana Rhode ,Pellegrini 700,Barrio Centro 1,,,4.0,3.0,2.0,150000.0
+argenprop,casa,,Ana Rhode ,Balcarce 1300,Barrio Centro 1,645.0,275.0,,,,
+argenprop,casa,38.0,Ana Rhode ,Uruguay 200,General San Martín,394.0,123.0,3.0,2.0,2.0,55000.0
+argenprop,casa,80.0,Ana Rhode ,Belgrano 1200,Barrio Centro 1,638.0,203.0,4.0,3.0,2.0,190000.0
+argenprop,departamento,,Ana Rhode ,Alvear 1600,Barrio Centro 2,77.0,77.0,3.0,2.0,1.0,65000.0
+argenprop,departamento,20.0,Ana Rhode ,Chacabuco 900,Barrio Centro 1,77.0,77.0,3.0,2.0,1.0,64000.0
+argenprop,casa,12.0,Ana Rhode ,Lascala 3300,Los Pinos,250.0,58.0,,,,35000.0
+argenprop,casa,17.0,Ana Rhode ,Gobernador Cullen 300,,240.0,100.0,4.0,3.0,1.0,56000.0
+argenprop,casa,5.0,Agrorosario,Gaumont 1300,,250.0,180.0,3.0,3.0,2.0,
+argenprop,casa,3.0,Remax Tendencia,Dorrego 3300,Villa Casey,300.0,36.0,2.0,1.0,1.0,40000.0
+argenprop,departamento,6.0,Remax Tendencia,Lisandro De La Torre 400,Barrio Centro 2,54.0,54.0,2.0,1.0,1.0,63000.0
+propia,departamento,0.0,Romero Y Asociados,España 600,Santa Rosa,89.0,78.0,4.0,2.0,2.0,
+propia,departamento,0.0,Romero Y Asociados,España 600,Santa Rosa,,,2.0,1.0,1.0,
+propia,departamento,0.0,Proin,Castelli 800,Barrio Centro 1,101.0,101.0,3.0,2.0,1.0,136350.0
+propia,departamento,0.0,Proin,Caseros 36,General Belgrano,46.0,46.0,2.0,1.0,1.0,50700.0
+propia,departamento,0.0,Proin,Caseros 36,General Belgrano,45.0,45.0,2.0,1.0,1.0,49200.0
+propia,casa quinta,,Proin,Ernesto Di Martino 1000,Los Robles,145.0,145.0,7.0,3.0,2.0,90000.0
+propia,casa,,Romero Y Asociados,Moreno 1300,Barrio Centro 2,234.0,234.0,8.0,3.0,3.0,
+propia,departamento,,Romero Y Asociados,Belgrano 200,Barrio Centro 1,100.0,100.0,5.0,2.0,1.0,
+propia,casa,,Proin,Caseros 200,General Belgrano,98.0,98.0,6.0,2.0,1.0,80000.0
+propia,departamento,,Romero Y Asociados,Pellegrini 900,Barrio Centro 2,70.0,70.0,4.0,2.0,1.0,
+propia,departamento,,Proin,España 1500,Barrio Norte,38.0,38.0,2.0,1.0,1.0,43000.0
+propia,departamento,,Romero Y Asociados,Castelli 300,Barrio Norte,55.0,55.0,2.0,1.0,1.0,
+propia,casa quinta,,Proin,Lascala 4200,Los Pinos,176.0,,6.0,3.0,1.0,135000.0
+propia,casa,,Romero Y Asociados,Arenales 100,General Belgrano,,,,,,
+propia,departamento,,Proin,Alem 84,Barrio Centro 3,,,3.0,3.0,2.0,
+propia,departamento,0.0,Romero Y Asociados,9 De Julio Y Santa Fe,Barrio Centro 1,,,2.0,1.0,1.0,
+propia,casa,,Romero Y Asociados,3 De Febrero 200,Barrio Centro 3,161.0,161.0,7.0,3.0,2.0,
+propia,casa,,Proin,Chile 100,Tiro Federal,166.0,166.0,5.0,2.0,1.0,70000.0
+propia,departamento,,Romero Y Asociados,Hipólito Yrigoyen 1000,Bernardino Rivadavia,44.0,44.0,2.0,1.0,1.0,
+propia,departamento,,Proin,25 De Mayo 1000,Barrio Centro 2,360.0,360.0,7.0,4.0,3.0,560000.0
+propia,departamento,,Proin,25 De Mayo 1000,Barrio Centro 2,180.0,180.0,5.0,2.0,2.0,350000.0
+propia,casa,,Romero Y Asociados,Guemes 300,M.M De Guemes,217.0,217.0,10.0,4.0,3.0,
+propia,departamento,,Proin,Maipu 1000,Barrio Centro 2,50.0,50.0,2.0,1.0,1.0,
+propia,departamento,0.0,Proin,Alsina 800,M.M De Guemes,86.0,83.0,4.0,2.0,1.0,76500.0
+propia,departamento,,Romero Y Asociados,Edison 800,Barrio Centro 2,88.0,88.0,4.0,2.0,1.0,
+propia,casa,,Romero Y Asociados,Juan B Justo 500,General San Martín,,,6.0,2.0,1.0,
+propia,departamento,,Valeria Riesgo,Castelli Y Manzano,Malvinas Argentinas,65.0,57.0,1.0,1.0,1.0,35000.0
+propia,casa,,Proin,San Martin 500,Barrio Centro 1,,,13.0,,3.0,300000.0
+propia,casa,,Romero Y Asociados,Manzano 400,Malvinas Argentinas,80.0,80.0,4.0,1.0,1.0,
+propia,casa,,Romero Y Asociados,Maipu 2200,Bernardino Rivadavia,151.0,161.0,6.0,4.0,2.0,
+propia,galpón,,Proin,Santa Fe 2000,Barrio Norte,150.0,150.0,,,,100000.0
+propia,casa,,Proin,Neuquen 23,M.M De Guemes,114.0,114.0,3.0,2.0,1.0,90000.0
+propia,galpón,,Proin,12 De Octubre 1900,Barrio De La Carne,192.0,192.0,6.0,2.0,1.0,110000.0
+propia,casa,,Proin,Mendoza 76,Provincias Unidas,145.0,145.0,6.0,2.0,1.0,115000.0
+propia,casa,,Romero Y Asociados,Lisandro De La Torre 1500,San José Obrero,140.0,140.0,7.0,2.0,1.0,
+propia,departamento,,Romero Y Asociados,Belgrano 75,Barrio Centro 1,78.0,78.0,6.0,3.0,1.0,
+propia,casa,,Romero Y Asociados,Moreno 1700,San José Obrero,137.0,137.0,7.0,3.0,1.0,
+propia,departamento,0.0,Proin,25 De Mayo 85,Barrio Centro 2,54.0,51.0,2.0,1.0,1.0,68000.0
+propia,departamento,4.0,Proin,Alvear 1200,Bernardino Rivadavia,47.0,43.0,2.0,1.0,1.0,55000.0
+propia,departamento,,Proin,Belgrano 1200,Barrio Centro 1,80.0,80.0,4.0,2.0,1.0,120000.0
+propia,cochera,,Proin,9 De Julio 1700,Barrio Centro 2,125.0,125.0,,,,
+propia,casa,,Romero Y Asociados,Juan B. Alberdi 300,Barrio Centro 3,124.0,124.0,6.0,3.0,1.0,
+propia,casa,,Proin,Saavedra 500,Barrio Centro 1,,,7.0,3.0,1.0,135000.0
+propia,casa,,Romero Y Asociados,Las Calandrias 1700,Los Robles,243.0,243.0,6.0,3.0,2.0,
+propia,casa,,Proin,Bartolomé Long 1600,Villa Casey,160.0,120.0,5.0,3.0,2.0,70000.0
+propia,casa,,Proin,Juan B. Alberdi 300,Barrio Centro 3,141.0,141.0,6.0,2.0,1.0,65000.0
+propia,casa,,Broker,Lavalle 1100,Barrio Centro 2,159.0,159.0,5.0,2.0,2.0,
+propia,casa,,Broker,Colón 400,Barrio Centro 1,142.0,142.0,4.0,2.0,4.0,
+propia,casa,,Proin,Maestros Argentinos 1100,San José Obrero,97.0,97.0,3.0,2.0,1.0,65000.0
+propia,casa,,Proin,Toribio Echeverria 100,Bernardino Rivadavia,240.0,191.0,8.0,3.0,1.0,
+propia,casa,,Proin,Santa Fe 850,Barrio Centro 1,200.0,200.0,8.0,3.0,2.0,115000.0
+propia,casa,,Romero Y Asociados,3 De Febrero 800,Barrio Centro 3,146.0,146.0,6.0,2.0,1.0,
+propia,casa,,Romero Y Asociados,Expedicion Arg Al Polo Sur 96,Barrio Norte,257.0,257.0,10.0,4.0,2.0,
+propia,casa,,Romero Y Asociados,Laprida 500,Barrio Centro 1,167.0,167.0,6.0,2.0,1.0,
+propia,casa,,Romero Y Asociados,Juan B. Alberdi 100,Barrio Centro 3,130.0,130.0,6.0,3.0,2.0,
+propia,casa,,Romero Y Asociados,Avellaneda 800,Barrio Norte,,,7.0,2.0,1.0,
+propia,departamento,,Romero Y Asociados,Pellegrini 700,Barrio Centro 1,,,4.0,2.0,1.0,
+propia,casa,,Romero Y Asociados,La Rioja 200,Provincias Unidas,197.0,197.0,9.0,4.0,3.0,
+propia,departamento,,Romero Y Asociados,Iturraspe 1200,Barrio Centro 2,47.0,47.0,1.0,,1.0,
+propia,casa quinta,,Romero Y Asociados,Las Acacias 1600,Los Pinos,305.0,305.0,10.0,5.0,3.0,
+propia,casa,,Romero Y Asociados,Pardal 100,Alejandro Gutierrez,,,4.0,2.0,1.0,
+propia,casa,,Romero Y Asociados,Giacaglia 700,Ciudad Nueva,137.0,137.0,5.0,2.0,1.0,
+propia,departamento,,Proin,Marconi E Italia,Barrio Centro 1,74.0,62.0,3.0,2.0,1.0,75000.0
+propia,casa,,Romero Y Asociados,Dante Alighieri 1000,Barrio Centro 3,260.0,260.0,10.0,3.0,3.0,
+propia,casa,,Romero Y Asociados,Antartida Argentina 100,General Belgrano,134.0,134.0,8.0,2.0,1.0,
+propia,departamento,,Proin,Santa Fe 1000,Barrio Centro 1,51.0,51.0,2.0,1.0,1.0,
+propia,departamento,,Romero Y Asociados,Velez Sarfield 100,Barrio Norte,57.0,57.0,2.0,1.0,1.0,
+propia,casa,,Romero Y Asociados,Iturraspe 1000,Barrio Centro 2,142.0,142.0,8.0,3.0,1.0,
+propia,casa,,Romero Y Asociados,Lavalle 1000,Barrio Centro 2,159.0,159.0,5.0,2.0,1.0,
+propia,casa,,Proin,Libertad 100,San Cayetano,121.0,121.0,,2.0,1.0,75000.0
+propia,casa,,Proin,Juan Bautista Alberdi 700,Barrio Centro 3,240.0,240.0,12.0,3.0,3.0,220000.0
+propia,casa,,Romero Y Asociados,Saavedra 2500,Malvinas Argentinas,,,3.0,1.0,1.0,45000.0
+propia,departamento,,Romero Y Asociados,Belgrano 75,Barrio Centro 1,,,6.0,3.0,1.0,
+propia,casa,,Romero Y Asociados,Libertad 700,Ciudad Nueva,221.0,221.0,7.0,3.0,3.0,
+propia,casa,,Romero Y Asociados,Roca 200,Barrio Centro 1,140.0,140.0,6.0,3.0,2.0,
+propia,departamento,,Proin,Brown Y Francia,Barrio Centro 2,71.0,71.0,3.0,2.0,1.0,80000.0
+propia,casa,,Romero Y Asociados,Uruguay 200,General San Martín,,,5.0,2.0,1.0,
+propia,departamento,,Proin,Maipu E Italia,Barrio Centro 1,89.0,83.0,3.0,2.0,1.0,
+propia,casa,,Romero Y Asociados,Vuelta De Obligado 1000,Tiro Federal,101.0,101.0,2.0,1.0,1.0,
+propia,casa,,Broker,Barberis 1000,San Cayetano,,,5.0,3.0,3.0,
+propia,casa quinta,3.0,Proin,Francia 1300,Barrio Centro 2,155.0,,2.0,1.0,1.0,200000.0
+propia,casa quinta,3.0,Broker,Calle 35 1600,Villa Casey,1200.0,,4.0,2.0,2.0,
+propia,casa,5.0,Broker,Calle 35 Este 1600,Villa Casey,130.0,108.0,5.0,2.0,2.0,
+propia,casa,5.0,Broker,Calle 35 Este 1600,Villa Casey,,100.0,3.0,2.0,1.0,
+propia,casa,10.0,Proin,Valdez 200,Barrio San Vicente,158.0,158.0,7.0,2.0,2.0,71000.0
+propia,casa ,10.0,Proin,Las Heras 1100,M.M De Guemes,52.0,32.0,2.0,1.0,1.0,45000.0
+propia,departamento,,Mrvt Gestiones Inmobiliarias,Pavon 31,Barrio Centro 3,48.0,42.0,2.0,1.0,1.0,65000.0
+propia,casa,11.0,Proin,Jauretche 2200,El Cruce,167.0,63.0,5.0,3.0,2.0,78000.0
+propia,casa,13.0,Broker,Alvear 100,Barrio Centro 1,385.0,287.0,10.0,5.0,4.0,220000.0
+propia,departamento,,Proin,Castelli 3000,Malvinas Argentinas,50.0,42.0,2.0,1.0,1.0,26000.0
+propia,casa,15.0,Proin,Balcarce 1500,Malvinas Argentinas,170.0,162.0,6.0,4.0,4.0,90000.0
+propia,departamento,15.0,Proin,Vieytes 1600,Bernardino Rivadavia,49.0,49.0,2.0,1.0,1.0,31000.0
+propia,departamento,15.0,Pascual,,,,,,1.0,1.0,40000.0
+propia,departamento,16.0,Mrvt Gestiones Inmobiliarias,Chacabuco 1035,Barrio Centro 2,110.0,110.0,4.0,2.0,1.0,140000.0
+propia,casa,20.0,Proin,Turner 1200,Tiro Federal,372.0,75.0,4.0,2.0,1.0,31000.0
+propia,casa,20.0,Mercurio,Chacabuco 641,Barrio Centro 1,266.0,143.0,3.0,2.0,1.0,165000.0
+propia,casa,20.0,Pascual,,,,,,2.0,1.0,60000.0
+propia,casa,20.0,Pascual,,,,,,2.0,1.0,70000.0
+propia,casa,25.0,Mrvt Gestiones Inmobiliarias,Balcarce 1055,Barrio Centro 1,427.0,,4.0,2.0,1.0,90000.0
+propia,casa,30.0,Proin,Italia 200,Barrio Centro 1,610.0,186.0,6.0,3.0,2.0,165000.0
+propia,casa,31.0,Proin,Falucho 500,General San Martín,368.0,214.0,6.0,3.0,2.0,95000.0
+propia,departamento,35.0,Mrvt Gestiones Inmobiliarias,,,80.0,80.0,3.0,2.0,1.0,90000.0
+propia,casa,35.0,Tu Espacio,Mitre 111,Barrio Centro 1,750.0,320.0,14.0,3.0,3.0,450000.0
+propia,casa,,Proin,Iturraspe 800,Barrio Centro 1,154.0,185.0,7.0,3.0,2.0,129500.0
+propia,casa,40.0,Proin,Uruguay 700,General San Martín,408.0,131.0,5.0,3.0,1.0,59500.0
+propia,casa,41.0,Proin,Brown 1600,Barrio Centro 2,600.0,284.0,8.0,4.0,2.0,195000.0
+propia,casa,49.0,Proin,Antartida Argentina 100,General Belgrano,239.0,123.0,5.0,3.0,1.0,85000.0
+propia,casa,50.0,Proin,Edison Y Roca,Barrio Centro 2,180.0,79.0,6.0,2.0,1.0,45000.0
+propia,casa,50.0,Proin,Brown 1400,Barrio Centro 2,,181.0,5.0,2.0,1.0,65000.0
+propia,casa,50.0,Proin,Chile 200,General Belgrano,,180.0,8.0,3.0,2.0,59000.0
+propia,casa,50.0,Pascual,,,,,3.0,2.0,1.0,40000.0
+propia,casa,60.0,Proin,Falucho 47,Barrio Centro 3,,97.0,4.0,2.0,1.0,55000.0
+propia,casa,63.0,Proin,Laprida 400,Provincias Unidas,487.0,90.0,4.0,2.0,1.0,59000.0
+propia,casa,,Hugo Pena,Dorrego 814,Barrio Centro 2,110.0,90.0,,2.0,1.0,72000.0
+propia,casa,,Hugo Pena,Alsina Y Liniers,General Belgrano,202.0,152.0,,3.0,1.0,70000.0
+propia,casa,,Hugo Pena,Ituzaingo 1334,Tiro Federal,261.0,118.0,,2.0,1.0,70000.0
+propia,casa,,Hugo Pena,Balcarce 1213,Barrio Centro 1,262.0,145.0,,3.0,1.0,70000.0
+propia,casa,,Mario Ceballos,Pellegrini 1346,Barrio Centro 2,360.0,,3.0,2.0,1.0,60000.0
+propia,casa,,Hugo Pena,Garibaldi 662,Barrio Centro 3,147.0,125.0,,3.0,1.0,75000.0
+propia,casa,,Hugo Pena,Colon 2354,Bernardino Rivadavia,690.0,118.0,,2.0,2.0,75000.0
+propia,casa,,Hugo Pena,Libertad 134,San Cayetano,121.0,,,2.0,1.0,75000.0
+propia,casa,,Hugo Pena,Castelli 1050,Barrio Centro 1,272.0,,,,,83000.0
+propia,casa,,Hugo Pena,Falucho 171,Barrio Centro 3,224.0,142.0,,3.0,2.0,82000.0
+propia,casa,,Hugo Pena,San Juan 53,Provincias Unidas,240.0,111.0,,2.0,1.0,82000.0
+propia,casa,,Hugo Pena,Catamarca 648,Ciudad Nueva,300.0,69.0,,3.0,1.0,85000.0
+propia,casa,,Mario Ceballos,Rodriguez Peña 646,M.M De Guemes,409.0,,3.0,1.0,1.0,65000.0
+propia,casa,,Hugo Pena,Balcarce 935,Barrio Centro 1,344.0,98.0,,2.0,1.0,100000.0
+propia,casa,,Hugo Pena,Garibaldi 660,Barrio Centro 3,133.0,95.0,,2.0,1.0,100000.0
+propia,departamento,,Hugo Pena,Uruguay 1231,Tiro Federal,250.0,119.0,,2.0,,100000.0
+propia,casa,,Hugo Pena,Hipólito Yrigoyen 2060,Bernardino Rivadavia,138.0,,,3.0,1.0,95000.0
+propia,casa,,Mario Ceballos,Azcuénaga 650,Barrio Centro 2,315.0,,5.0,2.0,2.0,110000.0
+propia,casa,,Mario Ceballos,Roca 650,Barrio Centro 1,,,4.0,2.0,1.0,88000.0
+propia,casa,,Hugo Pena,Saavedra 1585,Barrio Norte,220.0,187.0,,3.0,1.0,115000.0
+propia,casa,,Hugo Pena,Castelli 225,Barrio Centro 1,198.0,110.0,,2.0,1.0,110000.0
+propia,casa,,Hugo Pena,Hipólito Yrigoyen 1127,Barrio Centro 2,,,,,,160000.0
+propia,casa,,Hugo Pena,España 840,Barrio Centro 1,,,,2.0,2.0,140000.0
+propia,departamento,,Hugo Pena,Castelli 319,Barrio Centro 1,,,,,,130000.0
+propia,casa,,Tu Espacio,Chacabuco 1628,Barrio Centro 2,150.0,115.0,8.0,3.0,1.0,95000.0
+propia,casa,,Hugo Pena,Hipólito Yrigoyen 1056,Barrio Centro 2,500.0,312.0,,3.0,1.0,600000.0
+propia,casa,,Pascual,,,,,2.0,2.0,1.0,50000.0
+propia,casa,,Mario Ceballos,Francia 1176,Barrio Centro 2,300.0,,4.0,2.0,1.0,90000.0
+propia,casa,,Ruben Zacco,9 De Julio Y 26 De Abril,Bernardino Rivadavia,260.0,153.0,1.0,3.0,1.0,125000.0
+propia,casa,,Ruben Zacco,Maipu 1527,Barrio Centro 2,200.0,129.0,,3.0,1.0,105000.0
+propia,casa,,Di Nardo ,Balcarce 600,Barrio Centro 1,273.0,174.0,8.0,3.0,3.0,130000.0
+propia,departamento,,Di Nardo ,Jujuy 575,San Cayetano,42.0,42.0,3.0,1.0,1.0,36000.0
+propia,casa,,Di Nardo ,Alvear 600,Barrio Centro 1,250.0,200.0,10.0,3.0,2.0,250000.0
+propia,casa,,Ugolini Hnos,Iturraspe 305,Barrio Centro 1,180.0,130.0,,2.0,1.0,95000.0
+propia,casa,,Mario Ceballos,Laprida 117,General Belgrano,193.0,,5.0,3.0,2.0,70000.0
+propia,galpón,,Ugolini Hnos,Hipólito Yrigoyen 2020,Bernardino Rivadavia,400.0,150.0,,,,80000.0
+propia,casa,,Ezequiel Thione,Quintana 1107,San José Obrero,233.0,115.0,,2.0,1.0,93000.0
+propia,casa,,Ezequiel Thione,Alvear 1185,Barrio Centro 2,350.0,262.0,,4.0,2.0,75000.0
+propia,casa,,Hugo Pena,Pellegrini 1382,Barrio Centro 2,,,,,,92000.0
+propia,departamento,,Hugo Pena,San Juan 3070,M.M De Guemes,,,,,,38000.0
+propia,casa,,Hugo Pena,Edison 1133,Barrio Centro 2,252.0,160.0,,2.0,1.0,80000.0
+propia,casa,,Hugo Pena,Saavedra 1690,Barrio Norte,307.0,147.0,,2.0,1.0,80000.0
+propia,casa,,Hugo Pena,Almafuerte 1397,Barrio Centro 1,,,,,,80000.0
+propia,casa,,Hugo Pena,Chile 275,General San Martín,,,,,,80000.0
+propia,casa,,Hugo Pena,Sarmiento 356,Barrio Centro 3,129.0,154.0,,3.0,1.0,75000.0
+propia,casa,,Mario Ceballos,Velez Sarfield 340,Barrio Norte,400.0,,4.0,2.0,1.0,85000.0
+propia,casa,,Hugo Pena,Avellaneda 570,Barrio Norte,,,,,,93000.0
+propia,casa,,Hugo Pena,Derqui 26,General Belgrano,,,,,,90000.0
+propia,casa,,Hugo Pena,Islas Malvinas 727,Ciudad Nueva,287.0,127.0,,2.0,1.0,85000.0
+propia,casa,,Hugo Pena,Casey 99,Barrio Centro 1,238.0,155.0,,2.0,1.0,125000.0
+propia,casa,,Hugo Pena,Agüero 656,Barrio Norte,203.0,,,2.0,1.0,130000.0
+propia,casa,,Hugo Pena,Caseros 728,San Cayetano,250.0,134.0,,2.0,1.0,135000.0
+propia,casa,,Hugo Pena,25 De Mayo 1560,Barrio Centro 2,,,,,,135000.0
+propia,casa,,Hugo Pena,Lisandro De La Torre 923,Barrio Centro 2,200.0,200.0,,,,125000.0
+propia,casa,,Hugo Pena,Tucuman 124,Barrio Centro 3,160.0,130.0,,2.0,1.0,120000.0
+propia,casa,,Hugo Pena,Falucho 574,General San Martín,,,,,,120000.0
+propia,casa,,Hugo Pena,Mitre Y Italia,Barrio Centro 1,497.0,205.0,,,,280000.0
+propia,casa,,Hugo Pena,Estrugamou 676,San José Obrero,,,,3.0,1.0,280000.0
+propia,casa,,Hugo Pena,Iturraspe 2174,Bernardino Rivadavia,581.0,254.0,,1.0,,210000.0
+propia,casa,,Hugo Pena,Chacabuco 2240,Bernardino Rivadavia,425.0,228.0,,3.0,2.0,200000.0
+propia,casa,,Hugo Pena,Lisandro De La Torre 640,Barrio Centro 2,381.0,230.0,,3.0,2.0,195000.0
+propia,casa,,Hugo Pena,Quintana 1350,San José Obrero,,,,3.0,2.0,180000.0
+propia,casa,,Hugo Pena,Belgrano 2268,Barrio Norte,,,,,,110000.0
+propia,casa,,Mario Ceballos,Saavedra 1146,Barrio Centro 1,,,4.0,2.0,1.0,88000.0
+propia,casa,,Hugo Pena,Rivadavia 784,Barrio Centro 2,216.0,191.0,,2.0,1.0,110000.0
+propia,casa,,Hugo Pena,Libertad 1249,Ciudad Nueva,522.0,229.0,,2.0,1.0,110000.0
+propia,casa,,Hugo Pena,Uruguay 669,General San Martín,196.0,225.0,,2.0,1.0,105000.0
+propia,casa,,Hugo Pena,Guemes 226,General Belgrano,485.0,155.0,,3.0,1.0,110000.0
+propia,casa,,Hugo Pena,Uruguay 659,General San Martín,268.0,136.0,,2.0,3.0,110000.0
+propia,casa,,Hugo Pena,Suipacha 195,General Belgrano,200.0,122.0,,2.0,1.0,110000.0
+propia,casa,,Romero Y Asociados,Moreno 1371,Barrio Centro 2,600.0,234.0,,3.0,3.0,250000.0
+propia,departamento,,Di Nardo ,Santa Fe 1180,Barrio Centro 1,40.0,40.0,2.0,1.0,1.0,40000.0
+propia,departamento,,Di Nardo ,Santa Fe 1078,Barrio Centro 1,40.0,40.0,2.0,1.0,1.0,40000.0
+propia,casa,,Ana Rhode ,Belgrano Y Lopez,Barrio Centro 1,638.0,210.0,5.0,3.0,2.0,190000.0
+mercado libre,departamento,3.0,Remax Tendencia,Alvear 0,Barrio Centro 1,65.0,65.0,,1.0,1.0,77000.0
+mercado libre,departamento,0.0,Estudio Yacoub,Saavedra E/ Azcoaga Y José Valdez,,69.0,60.0,3.0,2.0,1.0,45000.0
+mercado libre,departamento,0.0,Proin,Santa Fe 1000,Barrio Centro 1,51.0,51.0,2.0,1.0,1.0,70000.0
+mercado libre,departamento,15.0,Proin,Castelli 3000,Malvinas Argentinas,42.0,42.0,2.0,1.0,1.0,26000.0
+mercado libre,departamento,,Proin,25 De Mayo 85,Bernardino Rivadavia,54.0,51.0,2.0,1.0,1.0,68000.0
+mercado libre,departamento,,Carla,Alvear 1608,Barrio Centro 2,79.0,,,2.0,1.0,67000.0
+mercado libre,casa,,Agustin,Pringles 136,General Belgrano,170.0,,,2.0,2.0,80000.0
